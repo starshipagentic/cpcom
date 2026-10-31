@@ -1,2 +1,3 @@
 # cpcom
-Placeholder repo for the cpcom project
+
+Placeholder package. The `cpcom` name is reserved for a future project.
